@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Data Scientist, passionate about data-driven insights</h3>
 
 <p align="center">
-  <img src="https://github.com/kubanskan/analyzing-unicorn-companies/assets/129724865/edca341b-7685-4dad-b2ae-446038e7ac6b" alt="gif_readme-ezgif.com-resize">
+  <img src="https://github.com/kubanskan/kubanskan/assets/129724865/a6735f18-8cab-4dee-a8a9-b58cb5fa72d7" alt="Opis obrazu">
 </p>
+
 
 
