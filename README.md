@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">Aspiring Data Scientist, passionate about data-driven insights</h3>
 
-![gif_readme](https://github.com/Kamma121/MoneyManager/assets/109139766/2766076c-3042-4ac0-8d7b-041298d74fb9)
+<p align="center">
+  <img src="https://github.com/kubanskan/analyzing-unicorn-companies/assets/129724865/edca341b-7685-4dad-b2ae-446038e7ac6b" alt="gif_readme-ezgif.com-resize">
+</p>
+
+
